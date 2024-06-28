@@ -8,7 +8,7 @@ def main():
     Code Your Program here
     """
     for i in range(N + 1):
-        result.append(2 ** 1)
+        print (i ** 2)
     
     """
     ########################################
@@ -21,4 +21,4 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+     main()
