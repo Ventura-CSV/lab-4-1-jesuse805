@@ -8,7 +8,7 @@ def main():
     Code Your Program here
     """
     for i in range(N + 1):
-        print (i ** 2)
+        print (2 ** i)
     
     """
     ########################################
